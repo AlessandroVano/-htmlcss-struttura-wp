@@ -75,3 +75,15 @@ header {
     height: 355px;
     width: 60%;
 }
+
+.margin-right {
+    margin-right: 2px;
+}
+
+
+/* FOOTER */
+footer {
+    background: violet;
+    height: 30px;
+    
+}
