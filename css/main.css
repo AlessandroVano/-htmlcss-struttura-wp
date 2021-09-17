@@ -11,12 +11,25 @@
 .container {
     width: 70%;
     margin: 0 auto;
+    
 }
 
+.margin-top{
+    margin-top: 2%;
+    
+}
 
-
-/* HEADER */
+ /* HEADER */
 header {
     background: rgb(253, 114, 137);
     height: 75px;
+}
+
+/* MAIN SECTION */
+/* SECTION 1 */
+.section-1 {
+    background: yellow;
+    height: 355px;
+    margin-top: 2%;
+    
 }
